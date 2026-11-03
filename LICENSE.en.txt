@@ -1,0 +1,87 @@
+RIENTRO PROPRIETARY END-USER LICENCE
+Version 2.0 — 3 November 2026
+
+English translation for convenience. The Italian text in LICENSE.txt is the
+controlling version. This translation does not grant additional rights.
+
+Owner of the original code and assets: Michele Perrino
+Contact: mikelean@hotmail.it
+Copyright © 2026 Michele Perrino. All rights reserved except those expressly
+granted here and the rights relating to third-party components.
+
+1. SCOPE AND OWNERSHIP
+This licence applies to original Rientro material: the desktop program,
+Android app, web app, documentation and original assets distributed with them.
+Rientro is free proprietary software, not open source. Permission to use the
+software does not transfer ownership of its code. Readable files, a free
+download or a public repository do not grant additional exploitation rights
+over the original code.
+
+2. FREE USE
+The owner grants a non-exclusive, free licence without a time limit to install
+and run the version received on devices you own or lawfully administer, for
+installations you are authorized to manage. Personal backup copies and moving
+your installation between your own devices are allowed. The free edition's
+features do not require subscriptions, gift codes or payments to Rientro.
+The right to use the software does not guarantee perpetual free updates or support.
+
+3. REMOTE ACCESS AND EXTERNAL SERVICES
+The free edition works on the home network. Documented access from outside
+uses Tailscale, which the user must configure and use under that provider's
+terms. The user keeps the program running on their own household PC. Tailscale, Home Assistant and device manufacturers remain
+independent. Their costs or limits are not determined by this licence.
+
+4. RESALE AND REDISTRIBUTION RESTRICTIONS
+Without the owner's prior written authorization, you may not sell, resell,
+rent, sublicense or distribute original Rientro software, or modified,
+derivative, translated or rebranded versions, whether for free or for a fee.
+You may not incorporate original code in another distributed product or offer
+it to third parties as a hosted software service. You may not remove copyright
+notices or present the code as your own. Sharing the official download link
+is allowed.
+
+5. INSTALLATION, SUPPORT AND PRIVATE MODIFICATIONS
+A technician authorized by the user may charge for configuring or supporting
+a legitimate installation downloaded from the official channel. The charge
+must cover the work, not a Rientro licence or resale of the software. This does
+not authorize redistribution, rebranding, hosted services for third parties
+or claims of official partnership. You may modify a copy solely for your own
+use, without distributing it or offering it to third parties. Mandatory legal
+rights remain unaffected, including study, backup and interoperability where
+permitted by applicable law.
+
+6. NAME, LOGO AND ASSETS
+This licence does not grant permission to use the name, logo or original
+assets to identify other products or make them appear official or approved.
+Accurate references to Rientro in reviews, instructions and support work are
+not prohibited. This text does not claim a registered trademark.
+
+7. THIRD-PARTY COMPONENTS
+Proprietary restrictions apply only to original Rientro material. Third-party
+libraries, runtimes and assets retain their respective licences, notices,
+modification and redistribution rights, and any source-code obligations.
+This licence neither replaces nor restricts them. If there is a conflict,
+the relevant component's own licence prevails for that component. Consult
+AVVISI-TERZE-PARTI.txt, THIRD-PARTY.md and the licence texts included in the packages.
+
+8. COMPATIBILITY AND INSTALLATION SAFETY
+Correct configuration and compatible devices are required. The version's
+compatibility matrix distinguishes available connectors from models still
+requiring tests. Rientro does not replace certified security systems, manual
+access or emergency devices. Users must supervise initial tests. Universal
+compatibility or uninterrupted external services are not promised.
+
+9. WARRANTIES AND LIABILITY
+The software is provided in the condition and with the limitations documented
+for the version. This does not exclude mandatory rights, applicable statutory
+warranties, liability for wilful misconduct or gross negligence, or other
+liability that cannot lawfully be limited. Accepting this licence does not
+authorize charges or automatic renewals.
+
+10. DATA, BREACHES AND CONTACT
+The privacy notice is separate. Accepting this licence does not constitute
+consent to marketing or optional processing. In the event of unauthorized use,
+the owner may request that it cease and protect their rights under applicable
+law. Use of the original material requires acceptance of this licence;
+otherwise, do not install it or cease using it. Rights in third-party components
+remain unaffected. Authorization requests: mikelean@hotmail.it.

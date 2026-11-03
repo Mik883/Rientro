@@ -1,0 +1,21 @@
+# Nessun runtime, pacchetto o profilo privato nel repository di presentazione
+*.exe
+*.apk
+*.zip
+*.sqlite*
+*.db
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+.env*
+.runtime/
+node_modules/
+__pycache__/
+Sorgenti/
+release-assets/
+revisione/
+Thumbs.db
+.DS_Store

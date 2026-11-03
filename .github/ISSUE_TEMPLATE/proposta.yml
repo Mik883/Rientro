@@ -1,0 +1,14 @@
+name: Proposta
+description: Suggerisci un miglioramento.
+title: "[Proposta] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Quale esigenza vorresti risolvere?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Come immagini la soluzione?

@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:06,000
+Rientro: Windows, Android e webapp.
+Cancello, allarme e serratura smart.
+
+2
+00:00:06,000 --> 00:00:14,000
+Utenti, dispositivi e diagnostica dal PC.
+Tempi di assenza e riconnessione configurabili.
+
+3
+00:00:14,000 --> 00:00:24,000
+Ricevi la richiesta sul telefono: conferma oppure scegli Non entro.
+Il ritorno sulla rete domestica, da solo, non apre nulla.
+
+4
+00:00:24,000 --> 00:00:32,000
+Associa i telefoni con inviti personali monouso.
+Gestione riservata agli utenti autorizzati.
+
+5
+00:00:32,000 --> 00:00:40,000
+Home Assistant oppure connettori diretti compatibili.
+Router, relè e serrature richiedono modelli e requisiti specifici.
+I nuovi connettori devono ancora essere collaudati sui dispositivi reali.
+
+6
+00:00:40,000 --> 00:00:48,000
+Scegli cancello, allarme, serratura smart o le azioni combinate.
+Vengono eseguite soltanto le azioni configurate dopo la conferma.
+
+7
+00:00:48,000 --> 00:00:54,000
+Conferma personale e monouso, nessun reinvio automatico dopo esito incerto.
+Pre-release: compatibilità e stato delle prove nelle guide.
+
+8
+00:00:54,000 --> 00:01:00,000
+Rientro è gratuita. Windows 10/11, Android e webapp.
+Guide e download: github.com/Mik883/Rientro

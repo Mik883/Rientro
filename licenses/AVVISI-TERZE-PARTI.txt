@@ -1,0 +1,29 @@
+COMPONENTI DI TERZI — RIENTRO 2.0.0
+
+La licenza proprietaria di Michele Perrino riguarda solo le parti originali.
+I componenti esterni mantengono le rispettive licenze. Il divieto di rivendita
+Rientro non limita i diritti concessi sui componenti esterni.
+
+Windows: runtime Python (PSF e licenze incorporate), pacchetti Python e loro
+dipendenze in .runtime/Lib/site-packages; testi nei rispettivi *.dist-info.
+L'inventario dettagliato, i testi raccolti e gli hash sono in Licenze-terze-parti.
+Il runtime conserva anche i sorgenti Python dei pacchetti MPL-2.0 pywebpush,
+py-vapid e certifi. Il separato archivio Sorgenti-MPL-2.0.zip li rende disponibili
+nella forma preferita per modificarli, con metadati e avvisi; restano sotto MPL.
+Non sono applicate loro le limitazioni proprietarie Rientro.
+
+Connettori: pybticino, Aegis for Ajax e librerie SwitchBot/Bleak conservano
+le licenze e i registri di provenienza. Aegis adattato: nucleo API e namespace,
+esclusi wrapper HA e retry di comandi. Vedi vendor/rientro_aegis/LICENSE.
+
+Android: AndroidX WebKit e dipendenze risolte; testi Apache 2.0 e avvisi inclusi
+negli asset e in Licenze-terze-parti. Il sistema Android e WebView sono forniti
+dal dispositivo e non sono redistribuiti come sistema operativo nell'APK.
+Interfaccia: Lucide, licenza ISC e avvisi inclusi in static/LUCIDE-LICENSE.txt.
+Microsoft Edge WebView2: runtime esterno installato dal bootstrap Microsoft
+secondo le condizioni Microsoft; non è codice originale Rientro.
+
+Le licenze open source verificate non introducono un canone per copia Rientro.
+Servizi cloud, marchi e condizioni dei produttori restano distinti dalle licenze
+delle librerie. Il controllo documentato non è una certificazione legale o
+hardware universale. Vedi Documentazione/VERIFICA-DIPENDENZE.md per i limiti.

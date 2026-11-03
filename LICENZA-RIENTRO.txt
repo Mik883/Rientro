@@ -1,0 +1,85 @@
+LICENZA D'USO PROPRIETARIA RIENTRO
+Versione 2.0 — 3 novembre 2026
+
+Titolare del codice e delle risorse originali: Michele Perrino
+Contatto: mikelean@hotmail.it
+Copyright © 2026 Michele Perrino. Tutti i diritti riservati, salvo quelli
+espressamente concessi qui e i diritti relativi ai componenti di terzi.
+
+1. OGGETTO E TITOLARITÀ
+Questa licenza riguarda le parti originali di Rientro: programma desktop,
+app Android, webapp, documentazione e risorse originali distribuite con esse.
+Rientro è software proprietario gratuito, non open source. Il diritto d'uso
+non trasferisce la proprietà del codice. La disponibilità di file leggibili,
+di un download gratuito o di una repository pubblica non concede diritti
+ulteriori di sfruttamento del codice originale.
+
+2. USO GRATUITO
+Il titolare concede una licenza non esclusiva, gratuita e senza scadenza
+temporale per installare ed eseguire la versione ricevuta sui dispositivi
+che possiedi o amministri legittimamente, per gli impianti che sei autorizzato
+a gestire. Sono consentite copie personali di sicurezza e il trasferimento
+dell'installazione tra i propri dispositivi. Non sono richiesti abbonamenti,
+codici regalo o pagamenti a Rientro per le funzioni della versione gratuita.
+Il diritto d'uso non garantisce aggiornamenti o assistenza gratuiti perpetui.
+
+3. COLLEGAMENTO REMOTO E SERVIZI ESTERNI
+La versione gratuita funziona nella rete domestica. L'accesso dall'esterno
+documentato utilizza Tailscale, che l'utente deve configurare e utilizzare
+secondo le condizioni del relativo fornitore. L’utente mantiene attivo il programma sul proprio PC domestico.
+Tailscale, Home Assistant e i produttori dei dispositivi restano indipendenti.
+Eventuali loro costi o limiti non sono determinati da questa licenza.
+
+4. DIVIETO DI RIVENDITA E RIDISTRIBUZIONE
+Senza previa autorizzazione scritta del titolare non puoi vendere, rivendere,
+noleggiare, sublicenziare o distribuire il software originale Rientro, né
+versioni modificate, derivate, tradotte o ripresentate con un altro marchio,
+gratuitamente o a pagamento. Non puoi incorporare il codice originale in
+un altro prodotto distribuito o offrirlo come servizio software a terzi.
+Non puoi rimuovere gli avvisi di copyright o presentare il codice come tuo.
+È consentito condividere il collegamento al download ufficiale.
+
+5. INSTALLAZIONE, ASSISTENZA E MODIFICHE PERSONALI
+Un tecnico autorizzato dall'utente può essere pagato per configurare o
+assistere un'installazione legittima scaricata dal canale ufficiale: il
+corrispettivo deve riguardare il lavoro, non una licenza o rivendita Rientro.
+Questo non autorizza redistribuzione, marchi propri, servizi ospitati per
+terzi o dichiarazioni di partnership ufficiale. È consentito modificare
+una copia per il solo uso personale, senza distribuirla o offrirla a terzi.
+Restano salvi i diritti inderogabili previsti dalla legge, compresi studio,
+backup e interoperabilità nei casi consentiti.
+
+6. NOME, LOGO E RISORSE
+Questa licenza non concede l'uso di nome, logo e risorse originali per
+identificare altri prodotti o farli apparire ufficiali o approvati. Non è
+vietato citare correttamente Rientro nelle recensioni, istruzioni o attività
+di assistenza. Non si dichiara qui una registrazione del marchio.
+
+7. COMPONENTI DI TERZI
+Le limitazioni proprietarie si applicano solo alle parti originali Rientro.
+Le librerie, i runtime e le risorse di terzi conservano le rispettive licenze,
+avvisi, diritti di modifica e redistribuzione ed eventuali obblighi sui
+sorgenti. Questa licenza non li sostituisce e non li restringe. In caso di
+contrasto, per tali parti prevale la licenza del componente interessato.
+Consulta AVVISI-TERZE-PARTI.txt, THIRD-PARTY.md e i testi inclusi nei pacchetti.
+
+8. COMPATIBILITÀ E SICUREZZA DELL'IMPIANTO
+Sono necessari configurazione corretta e dispositivi compatibili. La matrice
+della versione distingue connettori disponibili e modelli ancora da provare.
+Rientro non sostituisce sistemi di sicurezza certificati, accessi manuali o
+dispositivi di emergenza. Le prime prove devono essere controllate dall'utente.
+Non è promessa compatibilità universale o continuità dei servizi esterni.
+
+9. GARANZIE E RESPONSABILITÀ
+Il software è fornito nello stato e con i limiti documentati per la versione.
+Non si escludono diritti inderogabili, garanzie legali applicabili o
+responsabilità per dolo, colpa grave e altri casi non limitabili per legge.
+Non sono autorizzati addebiti o rinnovi con l'accettazione di questa licenza.
+
+10. DATI, VIOLAZIONI E CONTATTO
+L'informativa privacy è separata; accettare questa licenza non equivale a
+consentire marketing o trattamenti facoltativi. In caso di uso non autorizzato
+il titolare può richiederne la cessazione e tutelare i propri diritti secondo
+la legge applicabile. Per utilizzare le parti originali occorre accettare
+questa licenza; altrimenti non installarle o cessarne l'uso. Restano intatti
+i diritti sui componenti di terzi. Autorizzazioni: mikelean@hotmail.it.

@@ -1,0 +1,21 @@
+name: Compatibilità
+description: Proponi o descrivi una prova su un dispositivo.
+title: "[Compatibilità] "
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Marca, modello e firmware
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versione Rientro e modalità di collegamento
+  - type: textarea
+    id: result
+    attributes:
+      label: Cosa hai provato e con quale risultato
+      description: Distingui lettura stati, notifica e comando fisico. Non inviare credenziali.
+    validations:
+      required: true
