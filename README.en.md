@@ -9,7 +9,7 @@ your phone. After you approve, it can coordinate the alarm, gate and smart lock
 according to your settings and supported devices. Reconnecting to Wi-Fi alone
 does not open anything.
 
-> **Pre-release 2.0.1 — check compatibility with your own installation.**
+> **Pre-release 2.0.2 — check compatibility with your own installation.**
 > The Home Assistant arrival flow has been tested in the development household.
 > New direct connectors have software tests but still require tests on real
 > hardware. Start with status readings and notifications, then supervise your
@@ -46,16 +46,16 @@ universal link that automatically connects every household.
 
 ## Downloads
 
-Get the files from **[Pre-release 2.0.1](https://github.com/Mik883/Rientro/releases/tag/v2.0.1)**:
+Get the files from **[Pre-release 2.0.2](https://github.com/Mik883/Rientro/releases/tag/v2.0.2)**:
 
 | Download | Purpose |
 | --- | --- |
-| [Windows setup](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Setup-2.0.1-x64.exe) | Windows 10/11 x64 installer |
-| [Windows portable](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Portable-2.0.1-x64.zip) | Extract the entire archive before running |
-| [Android APK](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-2.0.1.apk) | Signed app, distributed directly |
-| [Web interface](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Webapp-2.0.1.zip) | Requires the household backend; not a standalone server |
-| [SHA-256 checksums](https://github.com/Mik883/Rientro/releases/download/v2.0.1/SHA256.txt) | Verify downloaded files |
-| [Third-party licences](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Licenze-terze-parti-2.0.1.zip) | Notices, inventories and applicable source information |
+| [Windows setup](https://github.com/Mik883/Rientro/releases/download/v2.0.2/Rientro-Setup-2.0.2-x64.exe) | Windows 10/11 x64 installer |
+| [Windows portable](https://github.com/Mik883/Rientro/releases/download/v2.0.2/Rientro-Portable-2.0.2-x64.zip) | Extract the entire archive before running |
+| [Android APK](https://github.com/Mik883/Rientro/releases/download/v2.0.2/Rientro-2.0.2.apk) | Signed app, distributed directly |
+| [Web interface](https://github.com/Mik883/Rientro/releases/download/v2.0.2/Rientro-Webapp-2.0.2.zip) | Requires the household backend; not a standalone server |
+| [SHA-256 checksums](https://github.com/Mik883/Rientro/releases/download/v2.0.2/SHA256.txt) | Verify downloaded files |
+| [Third-party licences](https://github.com/Mik883/Rientro/releases/download/v2.0.2/Rientro-Licenze-terze-parti-2.0.2.zip) | Notices, inventories and applicable source information |
 
 Windows executables do not have an Authenticode signature. The Android APK
 is release-signed. Check the official download and SHA-256 checksum.

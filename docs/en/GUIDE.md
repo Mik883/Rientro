@@ -63,7 +63,7 @@ must not be treated as certain absence.
 
 ## Android and pairing
 
-1. Install the signed `Rientro-2.0.1.apk` from the official release. Android may
+1. Install the signed `Rientro-2.0.2.apk` from the official release. Android may
    require temporary permission to install from your chosen source.
 2. Configure mobile HTTPS access in the Windows program. Generate a one-time
    pairing code for that specific phone.

@@ -1,4 +1,4 @@
-# Rientro 2.0.1 — pre-release
+# Rientro 2.0.2 — pre-release
 
 [Italiano](../../CHANGELOG.md) · **English**
 
@@ -19,3 +19,6 @@ Authenticode signature. Software tests are not universal hardware certification.
 
 
 Updated visual identity, light/dark wordmarks, app icon and blue–turquoise accent palette. Existing features and settings are preserved.
+
+
+Adjusted the interface azure accents to match the logo. Shorter confirmation button labels reflect the configured arrival actions.
