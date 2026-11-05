@@ -8,8 +8,8 @@ fisico solo perché compare nel menu.
 
 | Componente | Percorso | Stato |
 | --- | --- | --- |
-| Windows x64 | Setup e portable 2.0.0 | Compilati; test software e interfaccia verificati |
-| Android | APK firmata 2.0.0 | Build, lint e firma verificati; installazione fisica da verificare |
+| Windows x64 | Setup e portable 2.0.1 | Compilati; test software e interfaccia verificati |
+| Android | APK firmata 2.0.1 | Build, lint e firma verificati; installazione fisica da verificare |
 | Home Assistant | Entità e presenza device_tracker | Opzionale; prove software, flusso della casa di sviluppo già provato |
 | Tenda MX | Lista client autenticata | Percorso esistente conservato; verificare modello/firmware |
 | FRITZ!Box | TR-064 Hosts | Implementato e verificato con risposte simulate; prova del modello reale necessaria |

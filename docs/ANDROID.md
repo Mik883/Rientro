@@ -2,7 +2,7 @@
 
 # App Android
 
-1. Scarica `Rientro-2.0.0.apk` dalla Release ufficiale sul telefono.
+1. Scarica `Rientro-2.0.1.apk` dalla Release ufficiale sul telefono.
 2. Se Android lo richiede, autorizza temporaneamente l'installazione dalla sorgente
    che stai usando. Al termine puoi revocare questa autorizzazione.
 3. Apri Rientro. Durante il primo collegamento usa la rete domestica del PC.

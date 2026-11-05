@@ -7,8 +7,8 @@ paths have software/simulated-response tests, not universal physical validation.
 
 | Component | Route | Status / limits |
 | --- | --- | --- |
-| Windows x64 | Setup and portable 2.0.0 | Compiled, runtime and interface verified; unsigned Windows EXEs |
-| Android | Signed 2.0.0 APK | Build, lint and public signing identity verified; physical upgrade still requires testing |
+| Windows x64 | Setup and portable 2.0.1 | Compiled, runtime and interface verified; unsigned Windows EXEs |
+| Android | Signed 2.0.1 APK | Build, lint and public signing identity verified; physical upgrade still requires testing |
 | Home Assistant | Selected entities and device_tracker presence | Optional; development-home arrival flow tested |
 | Tenda MX | Authenticated client list | Existing path retained; check model/firmware |
 | FRITZ!Box | TR-064 Hosts | Software tests; real-model check required |

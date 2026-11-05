@@ -1,4 +1,4 @@
-# Rientro 2.0.0 — pre-release
+# Rientro 2.0.1 — pre-release
 
 [Italiano](../../CHANGELOG.md) · **English**
 
@@ -16,3 +16,6 @@ Rientro is free proprietary software owned by Michele Perrino, not open source.
 Validation: 229 software tests passed, one skipped. Real iOS notification and
 new device-model tests remain pending. Windows executables do not have an
 Authenticode signature. Software tests are not universal hardware certification.
+
+
+Updated visual identity, light/dark wordmarks, app icon and blue–turquoise accent palette. Existing features and settings are preserved.

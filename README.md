@@ -1,4 +1,4 @@
-<p align="center"><img src="media/rientro-logo.png" alt="Rientro" width="360"></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="media/wordmark-dark.png"><img src="media/wordmark-light.png" alt="Rientro" width="360"></picture></p>
 <h1 align="center">Rientro</h1>
 <p align="center"><strong>Italiano</strong> · <a href="README.en.md">English</a></p>
 <p align="center"><strong>Torni a casa. Ricevi la richiesta. Decidi tu se entrare.</strong></p>
@@ -9,7 +9,7 @@ di conferma sul telefono. Dopo l'autorizzazione può coordinare allarme, cancell
 e serratura smart secondo le compatibilità e la sequenza configurate.
 La sola riconnessione Wi-Fi non apre la porta o il cancello.
 
-> **Pre-release 2.0.0 — versione iniziale da verificare sul proprio impianto.**
+> **Pre-release 2.0.1 — versione iniziale da verificare sul proprio impianto.**
 > Il flusso Home Assistant è stato provato nell'abitazione di sviluppo. I nuovi
 > connettori diretti hanno test software ma richiedono verifica sui modelli reali.
 > Consulta la matrice di compatibilità, poi prova letture e notifiche prima dei
@@ -44,16 +44,16 @@ dispositivo compatibile. Non esiste un link universale che abilita ogni casa.
 
 ## Download e installazione
 
-I pacchetti sono nella **[Pre-release 2.0.0](https://github.com/Mik883/Rientro/releases/tag/v2.0.0)**.
+I pacchetti sono nella **[Pre-release 2.0.1](https://github.com/Mik883/Rientro/releases/tag/v2.0.1)**.
 
 | Download | Uso |
 | --- | --- |
-| [Rientro-Setup-2.0.0-x64.exe](https://github.com/Mik883/Rientro/releases/download/v2.0.0/Rientro-Setup-2.0.0-x64.exe) | Setup Windows 10/11 x64 |
-| [Rientro-Portable-2.0.0-x64.zip](https://github.com/Mik883/Rientro/releases/download/v2.0.0/Rientro-Portable-2.0.0-x64.zip) | Portable Windows: estrarre completamente |
-| [Rientro-2.0.0.apk](https://github.com/Mik883/Rientro/releases/download/v2.0.0/Rientro-2.0.0.apk) | App Android firmata |
-| [Rientro-Webapp-2.0.0.zip](https://github.com/Mik883/Rientro/releases/download/v2.0.0/Rientro-Webapp-2.0.0.zip) | Interfaccia web: backend domestico necessario |
+| [Rientro-Setup-2.0.1-x64.exe](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Setup-2.0.1-x64.exe) | Setup Windows 10/11 x64 |
+| [Rientro-Portable-2.0.1-x64.zip](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Portable-2.0.1-x64.zip) | Portable Windows: estrarre completamente |
+| [Rientro-2.0.1.apk](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-2.0.1.apk) | App Android firmata |
+| [Rientro-Webapp-2.0.1.zip](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Webapp-2.0.1.zip) | Interfaccia web: backend domestico necessario |
 
-[Impronte SHA-256](https://github.com/Mik883/Rientro/releases/download/v2.0.0/SHA256.txt) · [Note della versione](https://github.com/Mik883/Rientro/releases/tag/v2.0.0) · [Licenze di terzi](https://github.com/Mik883/Rientro/releases/download/v2.0.0/Rientro-Licenze-terze-parti-2.0.0.zip)
+[Impronte SHA-256](https://github.com/Mik883/Rientro/releases/download/v2.0.1/SHA256.txt) · [Note della versione](https://github.com/Mik883/Rientro/releases/tag/v2.0.1) · [Licenze di terzi](https://github.com/Mik883/Rientro/releases/download/v2.0.1/Rientro-Licenze-terze-parti-2.0.1.zip)
 
 [Primo avvio](docs/GUIDA-PRIMO-AVVIO.md) · [Aggiornamento](docs/AGGIORNAMENTO.md) ·
 [Compatibilità](docs/COMPATIBILITA-CONNETTORI.md) · [Stato e limiti](docs/STATO-E-LIMITI.md)

@@ -1,4 +1,4 @@
-# Rientro 2.0.0 — pre-release
+# Rientro 2.0.1 — pre-release
 
 Rientro è un programma gratuito con licenza proprietaria di Michele Perrino.
 
@@ -17,3 +17,6 @@ notifiche iPhone/iPad richiedono prove reali. I test software non certificano
 la compatibilità universale dell'impianto.
 
 [Note in inglese](docs/en/RELEASE-NOTES.md) · [Compatibilità](docs/COMPATIBILITA.md)
+
+
+Nuova identità grafica con logo adattato ai fondi chiari e scuri, icona e palette blu–turchese. Configurazioni e funzioni conservate.
